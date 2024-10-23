@@ -1,0 +1,19 @@
+.component-content{
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.5rem;
+  margin: 5%;
+}
+.component-title {
+  font-size: 2rem;
+  margin: 20px;
+}
+.component-container{
+  border: 1px solid black;
+  border-radius: 2rem;
+  background-image: url("../pic/nbUbwV8h.png");
+  background-size: cover;
+  background-repeat:no-repeat ;
+  background-position:center ;
+}

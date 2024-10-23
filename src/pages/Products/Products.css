@@ -1,0 +1,16 @@
+.products-container{
+    border: 1px solid #DBD3D3;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+}
+
+.products-itemps-container{
+    display: grid;
+    height: 560px;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    overflow-y: auto;
+}

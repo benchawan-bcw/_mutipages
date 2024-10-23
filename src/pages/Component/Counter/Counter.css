@@ -1,0 +1,20 @@
+.counter-container {
+    border: 1px solid #4A628A;
+    border-radius: 0.5rem;
+    padding: 0.5rem 0.5rem 0.5rem;
+    width: 15rem;
+    background-color: #B7B7B7;
+    font-weight: bold;
+    margin-left: 10%;
+    margin-bottom: 2%;
+    filter: drop-shadow(0px 2px 8px #4A628A);
+}
+
+.counter-value{
+    font-size: x-large;
+}
+
+.counter-title{
+    color: #0B2F9F;
+    font-weight: bold;
+}
